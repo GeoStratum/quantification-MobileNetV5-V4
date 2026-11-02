@@ -22,9 +22,9 @@ GeoStratum combines field geology methods with production-grade software and emb
 
 ---
 
-### 🚀 Our Flagship Ecosystem
+### 🚀 Our Software Ecosystem
 
-#### 🪨 [Lithothèque](https://www.geostratum.eu/lithotheque) — The Digital Field Notebook
+#### 🪨 [Lithotheque](https://www.geostratum.eu/lithotheque) — Digital Field Notebook (Android & Windows)
 The ultimate field notebook designed for independent geologists, researchers, and students:
 - **Local-First & 100% Offline Resilience** : Zero cloud dependency for work in remote valleys, mines, quarries, and white zones.
 - **Embedded Edge AI (LiteRT / NPU)** : Real-time on-device classification across 104 geological and mineralogical classes with zero CPU fallback.
@@ -34,15 +34,22 @@ The ultimate field notebook designed for independent geologists, researchers, an
 
 📱 [Download Lithotheque on Google Play (1k+ downloads, 4.8★)](https://play.google.com/store/apps/details?id=com.lithotheque.app.release)
 
-#### 🪐 [SpaceGeol - Planet Prospector Simulator](https://www.geostratum.eu/)
-A realistic 3D space mission simulator powered by Newtonian physics and authentic planetary geology data.
+#### 🏛️ [Stratalog](https://www.geostratum.eu/stratalog) — Stratigraphic Column Designer (Windows 11)
+A high-performance Windows desktop application designed to create, analyze, and edit detailed borehole logs and stratigraphic sections:
+- **Modern Fluent UI (C# WinUI 3)** : Native Windows 11 interface with GPU-accelerated vector rendering via `Microsoft.Graphics.Win2D`.
+- **High-Performance Core (C++ Native DLL)** : Zero-garbage-collection computation engine for lithology profiles, elevation matrices, and erosion contours.
+- **Local Multimodal AI** : Bare-metal local execution of vision-language models (Qualcomm QAIRT, Intel OpenVINO NPU, and LLamaSharp) for core photo calibration and facies interpretation.
+
+#### 🪐 [SpaceGeol](https://www.geostratum.eu/spacegeol) — Planet Prospector Simulator (Pure 3D / Non-AI)
+A 3D planetary geology and space mission simulator running directly in the browser:
+- **Authentic Geosciences** : Real planetary mineralogy (spectrographic analysis, crystalline lattice alignment, regolith composition).
+- **Physics Engine** : Real-world Newtonian flight dynamics and orbital delta-V mechanics powered by Three.js *(No AI)*.
 
 ---
 
 ### 🔬 Core Open Research & Repositories
 
 - **[quantification-MobileNetV5-V4](https://github.com/GeoStratum/quantification-MobileNetV5-V4)** : Production-grade quantization pipelines (W4A8 Full Integer & INT8) and comprehensive NPU hardware benchmarks (Qualcomm Hexagon, Google Tensor TPU, MediaTek NeuroPilot, Intel OpenVINO).
-- **[Stratalog](https://www.geostratum.eu/)** : Stratigraphic column generation and borehole logging tools.
 
 ---
 
@@ -53,63 +60,5 @@ A realistic 3D space mission simulator powered by Newtonian physics and authenti
 - 💼 **LinkedIn** : [GeoStratum](https://www.linkedin.com/company/geostratum)
 - 📷 **Instagram** : [@geostratum_communication](https://www.instagram.com/geostratum_communication/)
 - 🦋 **Bluesky** : [@geostratum.bsky.social](https://bsky.app/profile/geostratum.bsky.social)
-- ✉️ **Contact** : [developer@geostratum.eu](mailto:developer@geostratum.eu)
+- ✉️ **Contact** : [communication@geostratum.eu](mailto:communication@geostratum.eu)
 ```
-
----
-
-## 2. Version pour Hugging Face (Organization Profile & About)
-
-> **Où l'utiliser ?**
-> - Sur `https://huggingface.co/organizations/GeoStratum/settings/profile` dans le champ **About / Description** ou dans la Model Card d'accueil.
-> - **About court Hugging Face** :
->   *`Geoscience Software & Edge AI Solutions. Pioneers in on-device geological classification, W4A8/INT8 quantization, and hardware NPU acceleration.`*
-
-### Contenu : Présentation Hugging Face
-
-```markdown
-# GeoStratum 🤗
-**Pioneering Applied Edge AI for Geosciences & Field Metrology**
-
-GeoStratum engineers software and machine learning architectures specifically tailored for harsh field environments where internet connectivity is unavailable. We bridge classical earth science methods with state-of-the-art embedded vision models running directly on mobile Neural Processing Units (NPUs).
-
----
-
-### 🎯 Research & Applied Focus Areas
-
-1. **Sub-Byte & Integer Quantization (W4A8 & INT8)** :
-   Developing zero-FP32 pipelines to run deep convolutional and hybrid attention backbones on mobile edge silicon (Qualcomm Hexagon HTP, Google Tensor TPU, MediaTek APU, Samsung Exynos) without accuracy degradation.
-
-2. **Multi-Scale Tiling Vision (21-MST)** :
-   Overcoming single-pass downscaling limitations to analyze both macro-lithological structures and microscopic mineral grains simultaneously in real-time.
-
-3. **Field Metrology & Scale Anchoring** :
-   High-resolution computer vision models to detect millimeter-scale reference objects and compute accurate grain sizes on outcrops and drill cores.
-
----
-
-### 📦 Key Repositories & Models on Hugging Face
-
-- **[GeoStratum/quantification-MobileNetV5-V4](https://huggingface.co/GeoStratum/quantification-MobileNetV5-V4)** :
-  Comprehensive technical documentation, W4A8/INT8 quantization methodology, and hardware benchmarks across Qualcomm Hexagon NPU and NVIDIA RTX architectures for 104 geological classes.
-- **[GeoStratum/Models_Stratalog](https://huggingface.co/GeoStratum/Models_Stratalog)** :
-  Machine learning models for stratigraphic logging and facies interpretation.
-
----
-
-### 📲 Production Implementation
-
-Our edge models power **Lithothèque**, the offline digital field notebook for Android:
-- 📥 [Available on Google Play Store](https://play.google.com/store/apps/details?id=com.lithotheque.app.release)
-- 🌐 [Learn more at geostratum.eu](https://www.geostratum.eu/lithotheque)
-```
-
----
-
-## 3. Synthèse des Éléments Clés Mis en Valeur
-
-1. **L'identité d'Entreprise** : Geoscience Software & AI Solutions (fondée par Lohan GUYON).
-2. **La promesse technique** : *Digitizing the field. Centralizing your tools.*
-3. **L'application phare** : **Lithothèque** (Local-First, chiffrement AES-256, 1k+ téléchargements, 4.8★).
-4. **La légitimité R&D / Open Source** : Mise en avant directe de **`quantification-MobileNetV5-V4`** (MobileNetV5-300M, MobileNetV4, W4A8, NPU benchmarks).
-5. **Le maillage réseau** : Liens réciproques entre Site Web, Google Play, GitHub et Hugging Face.

@@ -1,3 +1,25 @@
+---
+language:
+- en
+license: cc-by-nc-nd-4.0
+tags:
+- mobilenetv5
+- mobilenetv4
+- gemma-3
+- edge-ai
+- quantization
+- w4a8
+- int8
+- litert
+- tflite
+- onnx
+- npu
+- qualcomm-snapdragon
+- google-tensor
+- geology
+pipeline_tag: image-classification
+---
+
 # Lithotheque Edge Models - GeoStratum
 **Technical showcase of the Edge AI architecture powering the Lithotheque offline application.**
 

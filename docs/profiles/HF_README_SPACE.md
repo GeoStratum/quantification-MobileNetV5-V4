@@ -9,7 +9,9 @@ pinned: false
 
 <div align="center">
 
-# GeoStratum 🌍
+<img src="https://raw.githubusercontent.com/GeoStratum/GeoStratum-logos/main/assets/banners-16x9/geostratum-banner-1920x1080.png" alt="GeoStratum Banner" width="100%" style="border-radius: 8px; margin-bottom: 20px;" />
+
+# GeoStratum
 ### Geoscience Software & Applied Edge AI Solutions
 
 **Digitizing the field. Centralizing your tools.**
@@ -49,14 +51,13 @@ Our machine learning research focuses strictly on edge deployment and offline ge
 
 ### AI-Powered Solutions:
 - 🪨 **[Lithotheque](https://www.geostratum.eu/lithotheque)** : Digital field notebook for Android & Windows. 100% offline resilience, embedded LiteRT rock classification across 104 lithological classes, sub-millimeter scale metrology, and AES-256 local encryption *(Google Play, 1k+ downloads, 4.8★)*.
-- 🏛️ **[Stratalog](https://www.geostratum.eu/stratalog)** : Native Windows 11 desktop application (C# WinUI 3 & C++ DLL) for vector stratigraphic column design, borehole logging, and local multimodal AI assistance (Google Gemma 4 E2B Instruct via Qualcomm QAIRT, Intel OpenVINO, and LLamaSharp).
-
-### Physics & 3D Simulation (Non-AI):
-- 🪐 **[SpaceGeol](https://www.geostratum.eu/spacegeol)** : Interactive 3D planetary geology and space mission simulator running in WebGL/Three.js. Powered exclusively by authentic Newtonian flight dynamics, Keplerian orbital mechanics, and real planetary mineralogy *(No AI involved)*.
+- 🏛️ **[Stratalog](https://www.geostratum.eu/stratalog)** *(In Active Development)* : Native Windows 11 desktop application (C# WinUI 3 & C++ DLL) for vector stratigraphic column design, borehole logging, and local multimodal AI assistance (Google Gemma 4 E2B Instruct via Qualcomm QAIRT, Intel OpenVINO, and LLamaSharp).
 
 ---
 
 <div align="center">
+
+<img src="https://raw.githubusercontent.com/GeoStratum/GeoStratum-logos/main/assets/square/standard/geostratum-logo-round-400x400.png" alt="GeoStratum Round Logo" width="80" style="margin-top: 15px; margin-bottom: 10px;" />
 
 GeoStratum © 2026 — Founded by Lohan GUYON • Varades, France  
 [Website](https://www.geostratum.eu) • [LinkedIn](https://www.linkedin.com/company/geostratum) • [Instagram](https://www.instagram.com/geostratum_communication/) • [Bluesky](https://bsky.app/profile/geostratum.bsky.social)

@@ -14,13 +14,19 @@ Ce document regroupe les descriptions et fiches de présentation conçues pour l
 ### Contenu : `README.md` (GitHub Profile)
 
 ```markdown
-# GeoStratum 🌍
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/GeoStratum/GeoStratum-logos/main/assets/banners-16x9/geostratum-banner-1920x1080.png" alt="GeoStratum Banner" width="100%" style="border-radius: 8px; margin-bottom: 20px;" />
+
+# GeoStratum
 ### Geoscience Software & Edge AI Solutions
 
 **Digitizing the field. Centralizing your tools.**  
 GeoStratum combines field geology methods with production-grade software and embedded Edge AI to make geological data acquisition faster, more reliable, and 100% autonomous in the field.
 
 ---
+
+</div>
 
 ### 🚀 Our Software Ecosystem
 
@@ -34,16 +40,11 @@ The ultimate field notebook designed for independent geologists, researchers, an
 
 📱 [Download Lithotheque on Google Play (1k+ downloads, 4.8★)](https://play.google.com/store/apps/details?id=com.lithotheque.app.release)
 
-#### 🏛️ [Stratalog](https://www.geostratum.eu/stratalog) — Stratigraphic Column Designer (Windows 11)
-A high-performance Windows desktop application designed to create, analyze, and edit detailed borehole logs and stratigraphic sections:
+#### 🏛️ [Stratalog](https://www.geostratum.eu/stratalog) — Stratigraphic Column Designer (Windows 11) *(In Active Development)*
+A modern and high-performance Windows desktop application designed to create, analyze, and edit detailed borehole logs and stratigraphic sections:
 - **Modern Fluent UI (C# WinUI 3)** : Native Windows 11 interface with GPU-accelerated vector rendering via `Microsoft.Graphics.Win2D`.
 - **High-Performance Core (C++ Native DLL)** : Zero-garbage-collection computation engine for lithology profiles, elevation matrices, and erosion contours.
 - **Local Multimodal AI** : Bare-metal local execution of vision-language models (Qualcomm QAIRT, Intel OpenVINO NPU, and LLamaSharp) for core photo calibration and facies interpretation.
-
-#### 🪐 [SpaceGeol](https://www.geostratum.eu/spacegeol) — Planet Prospector Simulator (Pure 3D / Non-AI)
-A 3D planetary geology and space mission simulator running directly in the browser:
-- **Authentic Geosciences** : Real planetary mineralogy (spectrographic analysis, crystalline lattice alignment, regolith composition).
-- **Physics Engine** : Real-world Newtonian flight dynamics and orbital delta-V mechanics powered by Three.js *(No AI)*.
 
 ---
 
@@ -53,12 +54,13 @@ A 3D planetary geology and space mission simulator running directly in the brows
 
 ---
 
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/GeoStratum/GeoStratum-logos/main/assets/square/standard/geostratum-logo-round-400x400.png" alt="GeoStratum Round Logo" width="80" style="margin-top: 15px; margin-bottom: 10px;" />
+
 ### 🌐 Connect with GeoStratum
 
-- 🌍 **Official Website** : [www.geostratum.eu](https://www.geostratum.eu)
-- 🤗 **Hugging Face Hub** : [huggingface.co/GeoStratum](https://huggingface.co/GeoStratum)
-- 💼 **LinkedIn** : [GeoStratum](https://www.linkedin.com/company/geostratum)
-- 📷 **Instagram** : [@geostratum_communication](https://www.instagram.com/geostratum_communication/)
-- 🦋 **Bluesky** : [@geostratum.bsky.social](https://bsky.app/profile/geostratum.bsky.social)
-- ✉️ **Contact** : [communication@geostratum.eu](mailto:communication@geostratum.eu)
+[Official Website](https://www.geostratum.eu) • [Hugging Face Hub](https://huggingface.co/GeoStratum) • [LinkedIn](https://www.linkedin.com/company/geostratum) • [Instagram](https://www.instagram.com/geostratum_communication/) • [Bluesky](https://bsky.app/profile/geostratum.bsky.social) • [Email](mailto:communication@geostratum.eu)
+
+</div>
 ```
